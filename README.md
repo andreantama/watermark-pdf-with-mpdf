@@ -12,6 +12,7 @@
 ## Install Step 2
 
 ```PHP
+/* https://mpdf.github.io/installation-setup/installation-v7-x.html */
 use Illuminate\Http\File;
 use Illuminate\Support\Facades\Storage;
 
